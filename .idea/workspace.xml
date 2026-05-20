@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="168e5a93-1624-4bf6-a99f-589fcfb1115a" name="Changes" comment="remoção do .idea">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="168e5a93-1624-4bf6-a99f-589fcfb1115a" name="Changes" comment="remoção do .idea" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +58,7 @@
       <workItem from="1779302728207" duration="374000" />
       <workItem from="1779303513399" duration="27000" />
       <workItem from="1779304635510" duration="97000" />
-      <workItem from="1779312210832" duration="324000" />
+      <workItem from="1779312210832" duration="992000" />
     </task>
     <task id="LOCAL-00001" summary="remoção do .idea">
       <option name="closed" value="true" />
