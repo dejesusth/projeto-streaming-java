@@ -26,9 +26,18 @@ Sistema de streaming desenvolvido em Java utilizando Programação Orientada a O
 
 ## Estrutura do projeto
 
-src/
+```text
+src
  ├── app
+ │    └── Main.java
+ │
  └── model
+      ├── Conteudo.java
+      ├── Filme.java
+      ├── Serie.java
+      ├── Documentario.java
+      └── Usuario.java
+```
 
 ## Integrantes
 
